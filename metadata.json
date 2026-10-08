@@ -1,0 +1,6 @@
+{
+  "name": "Security Audit Checklist & Internship Workbench",
+  "description": "Comprehensive cyber security audit checklist and practical virtual internship workbench covering authentication, input validation, security checks, logging, and security awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
